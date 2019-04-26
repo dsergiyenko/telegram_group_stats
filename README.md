@@ -1,5 +1,5 @@
 # Telegram_group_stats
-Notebook for importing group chat data from telegram in json format and get top words for each user
+Notebook for importing group chat data from telegram in json format and getting top words for each user
 
-## TBD
+## TODO
 Add other metrics
